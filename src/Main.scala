@@ -2,6 +2,6 @@ package pzareba.aoc2022
 
 object Main {
   def main(args: Array[String]): Unit = {
-    println("Hello world!")
+    println(Solutions.day1())
   }
 }
